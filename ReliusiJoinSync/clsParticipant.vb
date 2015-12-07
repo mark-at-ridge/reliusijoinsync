@@ -1,0 +1,35 @@
+﻿Public Class clsParticipant
+    Public employerein As String
+    Public plancontractnumber As String
+    Public planname As String
+    Public ssn As String
+    Public dob As String
+    Public doh As String
+    Public firstname As String
+    Public lastname As String
+    Public middlename As String
+    Public address1 As String
+    Public address2 As String
+    Public city As String
+    Public state As String
+    Public zip As String
+    Public phone As String
+    Public phone2 As String
+    Public email As String
+    Public email2 As String
+    Public marital As String
+    Public gender As String
+    Public contactmethod As String
+    Public annualcomp As Double
+    Public autoIncrRate As Double
+    Public autoIncrMax As Double
+    Public preTaxBalance As Double
+    Public RothBalance As Double
+    Public afterTaxBalance As Double
+    Public contribPreTaxRate As Double
+    Public contribRothRate As Double
+    Public contribAfterTaxRate As Double
+    Public pensionAmountMonthly As Double
+    Public pensionStartage As Double
+    Public payPeriods As Int16
+End Class

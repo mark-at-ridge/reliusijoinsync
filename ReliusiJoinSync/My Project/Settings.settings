@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ijoinclientid" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ijoinuser" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ijoinpassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="syncexport" Type="System.String" Scope="User">
+      <Value Profile="(Default)">q:\reports\exports\</Value>
+    </Setting>
+    <Setting Name="syncimport" Type="System.String" Scope="User">
+      <Value Profile="(Default)">q:\reports\imports\</Value>
+    </Setting>
+    <Setting Name="syncdirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ijoindatabase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\acvbnet13\ijoin\reliusijoinsync\reliusijoinsync\WindowsApplication1\ijoinsync.db</Value>
+    </Setting>
+    <Setting Name="plangroupname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RA</Value>
+    </Setting>
+    <Setting Name="reliusimportdirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

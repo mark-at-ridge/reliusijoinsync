@@ -1,0 +1,2 @@
+empoyerEIN,planContractNumber,planName,ssn,contribPreTaxRate,autoIncrRate,autoIncrMax,contribRothRate,contribAfterTaxRate,rebalance,effectiveDate,errorCode,errorMsg
+849999141,RA001,Tilly 401k,200-00-5555,15,0,0,3,,YES,,,

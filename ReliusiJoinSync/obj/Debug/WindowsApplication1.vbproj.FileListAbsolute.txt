@@ -1,0 +1,2 @@
+D:\acvbnet13\ijoin\reliusijoinsync\reliusijoinsync\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\acvbnet13\ijoin\reliusijoinsync\reliusijoinsync\WindowsApplication1\bin\Debug\ReliusiJoinsyncutility.exe.config

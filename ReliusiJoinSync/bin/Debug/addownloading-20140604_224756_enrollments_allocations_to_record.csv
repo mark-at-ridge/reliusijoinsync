@@ -1,0 +1,5 @@
+empoyerEIN,planContractNumber,planName,ssn,ticker,allocationPercentage,dateStarted,errorCode,errorMsg
+849999141,RA001,Tilly 401k,200-00-55555,DFUVX,40,3/30/2015,,
+849999141,RA001,Tilly 401k,200-00-55555,VIGAX,20,3/30/2015,,
+849999141,RA001,Tilly 401k,200-00-55555,TRPWX,30,3/30/2015,,
+849999141,RA001,Tilly 401k,200-00-55555,CCBBX,10,3/30/2015,,
